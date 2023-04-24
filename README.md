@@ -1,4 +1,4 @@
-[![alextina](/alextina.png)](www.github.com/alextina)
+[![alextina](/alextina.png)](https://github.com/alextina)
 <table>
     <tr>
         <td colspan="2">
@@ -16,22 +16,22 @@
     <tr>
         <td>
             <h2>Lenguages, Tecnologías y Herramientas</h2>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=js"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=html"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=css"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=ts"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=nodejs"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=angular"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=js"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=html"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=css"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=ts"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=angular"></a>
             <br>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=firebase"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=jest"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=vscode"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=git"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=github"></a>
-            <a href="www.github.com/alextina"><img src="https://skillicons.dev/icons?i=figma"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=firebase"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=jest"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=vscode"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=git"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=github"></a>
+            <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=figma"></a>
         </td>
         <td>
-            <a href="www.github.com/alextina"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextina&theme=dracula">
+            <a href="https://github.com/alextina"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextina&theme=dracula">
         </td>
     </tr>
 </table>
