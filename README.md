@@ -10,7 +10,10 @@
                 cuenta, incluyendo la creación de campañas publicitarias digitales y el diseño de sitios web con
                 herramientas no-code. Este camino me llevó a Laboratoria, donde he desarrollado múltiples proyectos
                 web desde cero, lo que me ha permitido mejorar mis habilidades para crear, aprender por mi cuenta,
-                planificarme y enfocarme en resultados. </p>
+                planificarme y enfocarme en resultados.
+                <br>
+                ⋆
+            </p>
         </td>
     </tr>
     <tr>
