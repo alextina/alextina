@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <td>
-            <h2>Lenguages, Tecnologías y Herramientas</h2>
+            <h2>Lenguajes, Tecnologías y Herramientas</h2>
             <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=js"></a>
             <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=html"></a>
             <a href="https://github.com/alextina"><img src="https://skillicons.dev/icons?i=css"></a>
