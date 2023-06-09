@@ -4,13 +4,7 @@
         <td colspan="2">
             <h2>Sobre mí</h2>
             <p>
-                Desde niña, me ha encantado crear manualidades y prendas únicas a través del crochet. Esta
-                creatividad se expandió a la bisutería y luego a la publicidad, cuando estudié Diseño Gráfico y
-                Marketing. Mi curiosidad y amor por la tecnología me llevaron a aprender nuevas habilidades por mi
-                cuenta, incluyendo la creación de campañas publicitarias digitales y el diseño de sitios web con
-                herramientas no-code. Este camino me llevó a Laboratoria, donde he desarrollado múltiples proyectos
-                web desde cero, lo que me ha permitido mejorar mis habilidades para crear, aprender por mi cuenta,
-                planificarme y enfocarme en resultados.
+Soy una profesional con experiencia en marketing, diseño gráfico y desarrollo front-end. He trabajado en proyectos que han requerido un enfoque creativo y estratégico para transmitir mensajes impactantes y crear una identidad visual sólida. Además, cuento con habilidades en el desarrollo front-end utilizando Angular, HTML, CSS, JavaScript y otras tecnologías para crear interfaces atractivas y funcionales. Los invito a explorar mi perfil de GitHub, donde encontrarán ejemplos de mis proyectos y contribuciones. Soy proactiva, innovadora y constantemente busco oportunidades de aprendizaje para mantenerme actualizada en el campo tecnológico. Estoy emocionada por unirme a equipos colaborativos y aportar mis habilidades y experiencia en proyectos desafiantes.
                 <br>
                 ⋆
             </p>
